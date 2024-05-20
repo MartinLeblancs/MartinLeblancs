@@ -1,2 +1,82 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MartinLeblancs&show_icons=true&theme=tokyonight)
+[![Martin's banner](assets/personnal/banner.png)](https://github.com/noelvarga25)
+
+<h2 align="center">🔥 Hello ! I'm Martin LEBLANCS 🔥</h2>
+
+## 👦 About me
+
+<p>
+  <img width="150" align='left' src="assets/personnal/photo.jpeg">
+</p>
+
+Hi, I am Martin Leblancs, a versatile FullStack developer with a strong background in web, mobile, and software development. 
+
+I graduated from Epitech Paris, where I cultivated my passion for technology and honed my skills across various domains.<h2></h2>
+</br></br>
+</br></br>
+
+## 🧑‍🎓 As a Student 
+
+### 🇫🇷 Student at [Epitech Paris](https://www.epitech.eu/en/)
+
+During my time at EPITECH Paris, I immersed myself in a dynamic learning environment focused on practical experience and problem-solving. 
+
+The innovative pedagogy at EPITECH allowed me to develop a strong foundation in Computer Science while working on real-world projects. 
+I gained valuable skills in programming, software development, and system administration, preparing me for the challenges of the tech industry.
+
+
+### 🇨🇳 Student at [Beijing jiaotong University, Beijing, China](https://www.bjtu.edu.cn/)
+
+As part of my fourth-year exchange program at EPITECH, I had the opportunity to study at Beijing Jiaotong University in China for one year.
+
+This experience was transformative in many ways.
+
+Not only did it provide me with an invaluable academic experience, but it also allowed me to travel to Japan and South Korea, expanding my cultural horizons and broadening my perspective on technology and society. 
+
+It was a life-changing experience that shaped my personal and professional growth in profound ways.
+
+## 💻 Programming languages
+
+<p>
+<img height="30" src="assets/programming/c_logo.png">
+<img height="30" src="assets/programming/c++_logo.png">
+<img height="30" src="assets/programming/haskell_logo.png">
+<img height="30" src="assets/programming/dart_logo.png">
+<img height="30" src="assets/programming/python_logo.png">
+<img height="30" src="assets/programming/html_logo.png">
+<img height="30" src="assets/programming/css_logo.png">
+<img height="30" src="assets/programming/js_logo.png">
+<img height="30" src="assets/programming/ts_logo.png">
+<img height="30" src="assets/programming/php_logo.png">
+<img height="30" src="assets/programming/sql_logo.png">
+<img height="30" src="assets/programming/bash_logo.png">
+</p>
+
+<h2></h2>
+## 💻 Programming frameworks
+<img height="30" src="assets/programming/react_logo.png">
+<img height="30" src="assets/programming/flutter_logo.png">
+<img height="30" src="assets/programming/django_logo.png">
+<img height="30" src="assets/programming/expressjs_logo.png">
+
+### 🛠️ Tools
+
+<p>
+<img height="30" src="assets/programming/linux_logo.png">
+<img height="30" src="assets/programming/scrum_logo.png">
+<img height="30" src="assets/programming/git_logo.png">
+<img height="30" src="assets/programming/docker_logo.png">
+</p>
+
+<h2></h2>
+
+### ⚡ My Stats
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MartinLeblancs&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
+</br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MartinLeblancs&show_icons=true&theme=tokyonight)
+
+
+<p align='center'>
+<a href="https://github.com/MartinLeblancs"><img height="30" src="assets/links/github_logo.png"></a>
+<a href="https://www.linkedin.com/in/martin-leblancs-7a2154209/"><img height="30" src="assets/links/linkedin_logo.png"></a>
+</p>
