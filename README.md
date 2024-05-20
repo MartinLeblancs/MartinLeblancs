@@ -3,9 +3,10 @@
     <img src="assets/personnal/banner.png" alt="Banner">
   </a>
 </div>
-<h2 align="center">🔥 Hello ! I'm Martin LEBLANCS 🔥</h2>
 
-## 👦 About me
+<h2 id="header" align="center">🔥 Hello ! I'm Martin LEBLANCS 🔥</h2>
+
+### 👦 About me
 
 <p>
   <img width="150" align='left' src="assets/personnal/photo.jpeg" alt="MartinLEBLANCS-SouthKorea">
@@ -14,12 +15,15 @@
 Hi, I am Martin Leblancs, a versatile FullStack developer with a strong background in web, mobile, and software development. 
 
 I graduated from Epitech Paris, where I cultivated my passion for technology and honed my skills across various domains.
+</br>
+</br>
+</br>
+</br>
+</br>
 
-<h2></h2>
+### 🧑‍🎓 As a Student 
 
-## 🧑‍🎓 As a Student 
-
-### 🇫🇷 Student at [Epitech Paris](https://www.epitech.eu/en/)
+#### 🇫🇷 Student at [Epitech Paris](https://www.epitech.eu/en/)
 
 During my time at EPITECH Paris, I immersed myself in a dynamic learning environment focused on practical experience and problem-solving. 
 
@@ -27,7 +31,7 @@ The innovative pedagogy at EPITECH allowed me to develop a strong foundation in 
 I gained valuable skills in programming, software development, and system administration, preparing me for the challenges of the tech industry.
 
 
-### 🇨🇳 Student at [Beijing jiaotong University, Beijing, China](https://www.bjtu.edu.cn/)
+#### 🇨🇳 Student at [Beijing jiaotong University, Beijing, China](https://www.bjtu.edu.cn/)
 
 As part of my fourth-year exchange program at EPITECH, I had the opportunity to study at Beijing Jiaotong University in China for one year.
 
@@ -37,7 +41,7 @@ Not only did it provide me with an invaluable academic experience, but it also a
 
 It was a life-changing experience that shaped my personal and professional growth in profound ways.
 
-## 💻 Programming languages
+### 💻 Programming languages
 
 <p>
 <img height="30" src="assets/programming/c_logo.png">
@@ -54,13 +58,15 @@ It was a life-changing experience that shaped my personal and professional growt
 <img height="30" src="assets/programming/bash_logo.png">
 </p>
 
-<h2></h2>
 
-## 💻 Programming frameworks
+### 💻 Programming frameworks
+
+<p>
 <img height="30" src="assets/programming/react_logo.png">
 <img height="30" src="assets/programming/flutter_logo.png">
 <img height="30" src="assets/programming/django_logo.png">
 <img height="30" src="assets/programming/expressjs_logo.png">
+</p>
 
 ### 🛠️ Tools
 
