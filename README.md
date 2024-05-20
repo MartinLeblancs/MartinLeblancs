@@ -21,7 +21,6 @@ I'm always curious about new technologies and eager to learn. With my mix of edu
 </br>
 </br>
 </br>
-</br>
 
 ### 🧑‍🎓 As a Student 
 
