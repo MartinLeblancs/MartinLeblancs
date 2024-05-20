@@ -64,7 +64,7 @@ It was a life-changing experience that shaped my personal and professional growt
 
 <h2></h2>
 
-### 💻 Programming frameworks
+### 👨🏻‍💻 Programming frameworks
 
 <p>
 <img height="30" src="assets/programming/react_logo.png">
