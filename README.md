@@ -71,6 +71,7 @@ It was a life-changing experience that shaped my personal and professional growt
 <img height="30" src="assets/programming/flutter_logo.png">
 <img height="30" src="assets/programming/django_logo.png">
 <img height="30" src="assets/programming/expressjs_logo.png">
+<img height="30" src="assets/programming/angular_logo.png">
 </p>
 
 <h2></h2>
