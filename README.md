@@ -29,8 +29,8 @@ I'm always curious about new technologies and eager to learn.
 
 During my time at EPITECH Paris, I immersed myself in a dynamic learning environment focused on practical experience and problem-solving. 
 
-The innovative pedagogy at EPITECH allowed me to develop a strong foundation in Computer Science while working on real-world projects. 
-I gained valuable skills in programming, software development, and system administration, preparing me for the challenges of the tech industry.
+The innovative pedagogy at EPITECH allowed me to develop a strong foundation in Computer Science while working on real-world projects.
+</br>I gained valuable skills in programming, software development, and system administration, preparing me for the challenges of the tech industry.
 
 
 #### 🇨🇳 Student at [Beijing jiaotong University, Beijing, China](https://www.bjtu.edu.cn/)
