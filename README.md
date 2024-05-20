@@ -16,6 +16,7 @@ Hi, I am Martin Leblancs, a versatile FullStack developer with a strong backgrou
 I graduated from Epitech Paris, where I cultivated my passion for technology and honed my skills across various domains.
 
 <h2></h2>
+
 ## 🧑‍🎓 As a Student 
 
 ### 🇫🇷 Student at [Epitech Paris](https://www.epitech.eu/en/)
@@ -54,6 +55,7 @@ It was a life-changing experience that shaped my personal and professional growt
 </p>
 
 <h2></h2>
+
 ## 💻 Programming frameworks
 <img height="30" src="assets/programming/react_logo.png">
 <img height="30" src="assets/programming/flutter_logo.png">
