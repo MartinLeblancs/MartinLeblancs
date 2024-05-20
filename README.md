@@ -1,19 +1,21 @@
-[![Martin's banner](assets/personnal/banner.png)](https://github.com/MartinLeblancs)
-
+<div align="center">
+  <a href="https://github.com/MartinLeblancs">
+    <img src="assets/personnal/banner.png" alt="Banner">
+  </a>
+</div>
 <h2 align="center">🔥 Hello ! I'm Martin LEBLANCS 🔥</h2>
 
 ## 👦 About me
 
 <p>
-  <img width="150" align='left' src="assets/personnal/photo.jpeg">
+  <img width="150" align='left' src="assets/personnal/photo.jpeg" alt="MartinLEBLANCS-SouthKorea">
 </p>
 
 Hi, I am Martin Leblancs, a versatile FullStack developer with a strong background in web, mobile, and software development. 
 
-I graduated from Epitech Paris, where I cultivated my passion for technology and honed my skills across various domains.<h2></h2>
-</br></br>
-</br></br>
+I graduated from Epitech Paris, where I cultivated my passion for technology and honed my skills across various domains.
 
+<h2></h2>
 ## 🧑‍🎓 As a Student 
 
 ### 🇫🇷 Student at [Epitech Paris](https://www.epitech.eu/en/)
