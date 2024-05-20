@@ -12,9 +12,12 @@
   <img width="150" align='left' src="assets/personnal/photo.jpeg" alt="MartinLEBLANCS-SouthKorea">
 </p>
 
-Hi, I am Martin Leblancs, a versatile FullStack developer with a strong background in web, mobile, and software development. 
+Hey ! I'm Martin Leblancs, a versatile FullStack developer with experience in web, mobile, and software development.
 
-I graduated from Epitech Paris, where I cultivated my passion for technology and honed my skills across various domains.
+I graduated from Epitech Paris, where I learned a lot about technology. I've worked on various projects and gained practical skills in creating software solutions.
+
+I'm always curious about new technologies and eager to learn. With my mix of education and hands-on experience, I'm ready to tackle any software challenge.
+</br>
 </br>
 </br>
 </br>
