@@ -14,11 +14,11 @@
 
 Hey ! I'm Martin Leblancs, a versatile FullStack developer with experience in web, mobile, and software development.
 
-I graduated from Epitech Paris, where I learned a lot about technology. I've worked on various projects and gained practical skills in creating software solutions.
+I graduated from Epitech Paris, where I learned a lot about technology.
+</br>I've worked on various projects and gained practical skills in creating software solutions.
 
-I'm always curious about new technologies and eager to learn. With my mix of education and hands-on experience, I'm ready to tackle any software challenge.
-</br>
-</br>
+I'm always curious about new technologies and eager to learn. 
+</br>With my mix of education and hands-on experience, I'm ready to tackle any software challenge.
 </br>
 </br>
 
