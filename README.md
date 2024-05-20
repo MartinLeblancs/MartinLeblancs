@@ -19,7 +19,8 @@ I graduated from Epitech Paris, where I learned a lot about technology.
 
 I'm always curious about new technologies and eager to learn. 
 </br>With my mix of education and hands-on experience, I'm ready to tackle any software challenge.
-</br>
+
+<h2></h2>
 
 ### 🧑‍🎓 As a Student 
 
@@ -41,6 +42,8 @@ Not only did it provide me with an invaluable academic experience, but it also a
 
 It was a life-changing experience that shaped my personal and professional growth in profound ways.
 
+<h2></h2>
+
 ### 💻 Programming languages
 
 <p>
@@ -58,6 +61,7 @@ It was a life-changing experience that shaped my personal and professional growt
 <img height="30" src="assets/programming/bash_logo.png">
 </p>
 
+<h2></h2>
 
 ### 💻 Programming frameworks
 
@@ -67,6 +71,8 @@ It was a life-changing experience that shaped my personal and professional growt
 <img height="30" src="assets/programming/django_logo.png">
 <img height="30" src="assets/programming/expressjs_logo.png">
 </p>
+
+<h2></h2>
 
 ### 🛠️ Tools
 
@@ -85,6 +91,7 @@ It was a life-changing experience that shaped my personal and professional growt
 </br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MartinLeblancs&show_icons=true&theme=tokyonight)
 
+<h2></h2>
 
 <p align='center'>
 <a href="https://github.com/MartinLeblancs"><img height="30" src="assets/links/github_logo.png"></a>
