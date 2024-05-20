@@ -20,7 +20,6 @@ I graduated from Epitech Paris, where I learned a lot about technology.
 I'm always curious about new technologies and eager to learn. 
 </br>With my mix of education and hands-on experience, I'm ready to tackle any software challenge.
 </br>
-</br>
 
 ### 🧑‍🎓 As a Student 
 
